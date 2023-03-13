@@ -22,7 +22,7 @@ bye()
 
 ## Latest projects
 
-1. Portfolio ecommerce
-2. Landing page digital agency
+1. Portfolio ecommerce (my first js project)
+2. Landing page digital agency (my first html/css project)
 3. Musiken (work in progress)
 4. Paint (work in progress)
