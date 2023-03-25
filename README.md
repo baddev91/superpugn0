@@ -26,7 +26,3 @@ bye()
 2. Landing page digital agency (my first html/css project)
 3. Musiken (work in progress)
 4. Paint (work in progress)
-
-Download my awesome nerd Resume!
-
-[![Download File](https://github.com/SUPERPUGN0/mattia-ruberto-cv.png)](https://github.com/SUPERPUGN0/mattia-ruberto-cv.pdf)
