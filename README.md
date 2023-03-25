@@ -29,4 +29,4 @@ bye()
 
 Download my awesome nerd Resume!
 
-[![Download File](https://github.com/superpugn0/mattia-ruberto-cv.png)](https://github.com/superpugn0/mattia-ruberto-cv.pdf)
+[![Download File](https://github.com/SUPERPUGN0/mattia-ruberto-cv.png)](https://github.com/SUPERPUGN0/mattia-ruberto-cv.pdf)
