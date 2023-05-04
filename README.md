@@ -1,27 +1,20 @@
-# Who is SUPERPUGN0?
+I'll get straight to the point. I'm a young **nerd** (not so much, I'm 31) and I'm trying to make myself useful by doing what I do best: **writing code**.
 
-## The reality behind this mysterious name.
+Some web agencies occasionally need the 'trusted nerd' to solve that '**problem with the API**', create custom functions or whatever.
 
-Hey there! My name is Mattia and, due to my passion for martial arts, I've been using the nickname SUPERPUGN0 for a few years now.
+There, I like to think of myself as that person there, *your friendly neighbourhood nerd* :-D
 
-Anyway, let's talk about coding!
+I have been involved in digital marketing for 7 years but in the last year my passion for programming has prevailed.
 
-I created my first websites at the age of 12 using Frontpage. I've always been a bit of a nerd, but not too much.
+I love implementing code in **Wordpress**, creating **Apps** and **online platforms** creating both frontend and backend (and let's not forget the database!).
 
-In 2016, I discovered Wordpress and worked as a Digital Marketer for about 7 years.
+**I don't want a job contract**: I'd be super happy just to solve a problem once in a while (and at a bargain price!).
 
-Although I really enjoyed the psychological aspects of this field, the technical parts were what excited me the most.
-
-In January 2023, I decided to quit my job and study full-time with CodeCademy to become a Frontend Developer.
-
-My studies are still ongoing, but I'm starting to see some results with some small projects I've developed. Nothing special, but I'm proud of them!
-
-I hope to find a company soon that will hire me so that I can put into practice what I'm learning.
-
-bye()
+Whenever you want I'm available for a friendly phone call :-)
 
 ## Latest projects
 
-1. Portfolio ecommerce (my first js project)
-2. Landing page digital agency (my first html/css project)
+1. XML-API-Filter
+2. Portfolio ecommerce (my first js project)
+3. Landing page digital agency (my first html/css project)
 4. Paint
