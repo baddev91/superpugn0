@@ -16,5 +16,3 @@ Whenever you want I'm available for a friendly phone call :-)
 
 1. XML-API-Filter
 2. Portfolio ecommerce (my first js project)
-3. Landing page digital agency (my first html/css project)
-4. Paint
