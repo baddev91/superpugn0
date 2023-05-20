@@ -6,11 +6,9 @@ There, I like to think of myself as that person there, *your friendly neighbourh
 
 I have been involved in digital marketing for 7 years but in the last year my passion for programming has prevailed.
 
-I love implementing code in **Wordpress**, creating **Apps** and **online platforms** creating both frontend and backend (and let's not forget the database!).
+I love enhancing Wordpress by inserting code in every corner!
 
-**I don't want a job contract**: I'd be super happy just to solve a problem once in a while (and at a bargain price!).
-
-Whenever you want I'm available for a friendly phone call :-)
+**I don't want a job contract**: I'd be super happy just to solve a problem once in a while.
 
 ## Latest projects
 
